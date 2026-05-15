@@ -40,7 +40,6 @@ Java/JSP 기반의 대학교 홈페이지 팀 프로젝트입니다.
 - 관리자 파트 HTML/CSS 화면 틀 구현
 - JSP 기반 회원가입 화면 구현
 - 회원가입 입력 데이터를 데이터베이스에 저장하는 기능 구현
-- Oracle/MySQL DB 연동 및 DBeaver를 활용한 데이터 확인
 
 ---
 
@@ -51,5 +50,5 @@ Java/JSP 기반의 대학교 홈페이지 팀 프로젝트입니다.
 | Language | Java |
 | Frontend | HTML, CSS |
 | Backend | JSP, Servlet |
-| Database | Oracle, MySQL |
-| Tools | Eclipse, DBeaver, GitHub |
+| Database | MySQL |
+| Tools | Eclipse, DBeaver, Git, GitHub |
